@@ -55,8 +55,6 @@ coverage.xml
 # Translations
 *.mo
 *.pot
-*.png
-*.csv
 
 # Django stuff:
 *.log
@@ -126,3 +124,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+
